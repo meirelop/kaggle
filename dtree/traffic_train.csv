@@ -1,0 +1,14 @@
+id,hour,weather,accident,stall,target
+1,8,sunny,no,no,long
+2,8,cloudy,no,yes,long
+3,10,sunny,no,no ,short
+4,9,rainy,yes,no,long
+5,9,sunny,yes,yes,long
+6,10,sunny,no,no,short
+7,10,cloudy,no,no,short
+8,9,rainy,no,no,medium
+9,9,sunny,yes,no,long
+10,10,cloudy,yes,yes,long
+11,10,rainy,no,no,short
+12,8,cloudy,yes,no,long
+13,9,sunny,no,no,medium

@@ -1,0 +1,10 @@
+id,hour,weather,accident ,stall
+1,8,cloudy,no,no
+2,8,sunny,yes,no
+3,8,rainy,no,yes
+4,9,rainy,yes,no
+5,9,cloudy,yes,yes
+6,9,sunny,no,no
+7,10,sunny,yes,yes
+8,10,cloudy,no,yes
+9,10,rainy,no,no
